@@ -1,4 +1,4 @@
-package org.java.assignment.week3.pkg1;
+ package org.java.assignment.week3.pkg1;
 
 public class Animal {
 

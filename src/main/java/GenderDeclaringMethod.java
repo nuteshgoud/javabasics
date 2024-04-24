@@ -29,8 +29,6 @@ public class GenderDeclaringMethod {
             System.out.println("Senior Citizen");
         }
 
-
-
     }
 
 }

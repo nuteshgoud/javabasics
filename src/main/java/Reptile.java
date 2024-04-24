@@ -1,11 +1,7 @@
 public class Reptile {
 
     public static void main(String[] args) {
-    Reptile reptile=new Reptile();
-
-
-
-
+        Reptile reptile=new Reptile();
         reptile.printInfo("cobra","red");
     }
 
@@ -26,7 +22,7 @@ public class Reptile {
     class Animal{
         String name;
         public void printInfo(String name){
-            System.out.println("the value of name is ");
+            System.out.println("the value of name is "+name);
         }
     }
 }
